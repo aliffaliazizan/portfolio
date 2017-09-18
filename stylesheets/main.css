@@ -1,0 +1,33 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+    padding: 2.5rem 1rem
+}
+
+.navbar-bg {
+    background-color: #fff;
+}
+
+.social-media {
+    color: #b7b7b7;
+}
+
+.social-btn:link,
+.social-btn:visited {
+    color: #b7b7b7;
+    text-decoration: none;
+    
+    transition: border-bottom 0.2s, color 0.2s;
+}
+
+.social-btn:active,
+.social-btn:hover {
+    color: #563d7c;
+
+}
+
+headline {
+    font-family: 'Playfair Display', serif;
+}
