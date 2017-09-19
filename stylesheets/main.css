@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-    padding: 2.5rem 1rem
+    padding: 2.5rem 0;
 }
 
 .navbar-bg {
@@ -28,6 +28,23 @@ body {
 
 }
 
-headline {
-    font-family: 'Playfair Display', serif;
+.btn {
+    border-radius: 40px;
+    padding: 10px 30px
+}
+
+#main-section {
+    padding-top: 50px;
+}
+
+.card {
+    min-height: 250px;
+}
+
+#footer {
+    padding-top: 40px;
+}
+
+.divider  {
+    border-top: 1px solid #cccccc;
 }
