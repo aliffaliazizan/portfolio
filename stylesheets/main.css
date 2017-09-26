@@ -68,6 +68,10 @@ body {
     padding: 40px 0;
 }
 
+.box {
+    border: 1px solid #000;
+}
+
 @media (max-width: 575px) {
     .social-media {
         display: none;
