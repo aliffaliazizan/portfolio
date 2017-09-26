@@ -37,6 +37,10 @@ body {
     padding-top: 50px;
 }
 
+.portfolio {
+    margin-top: 50px;
+}
+
 .card {
     min-height: 250px;
     
